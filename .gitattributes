@@ -1,8 +1,5 @@
 * text=auto
 
-special-vendored-path/* linguist-vendored
-Assets/ linguist-vendored=false
-
 # Unity files
 *.meta -text merge=unityyamlmerge diff
 *.unity -text merge=unityyamlmerge diff
