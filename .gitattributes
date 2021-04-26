@@ -1,4 +1,4 @@
-Assets/ -linguist-vendored
+special-vendored-path/* linguist-vendored
 * text=auto
 
 # Unity files
