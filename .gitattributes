@@ -1,7 +1,7 @@
 * text=auto
 
 special-vendored-path/* linguist-vendored
-'Assets/TextMesh[[:space:]]Pro/' -linguist-vendored
+'Assets/TextMesh[:space:]Pro/' -linguist-vendored
 
 # Unity files
 *.meta -text merge=unityyamlmerge diff
